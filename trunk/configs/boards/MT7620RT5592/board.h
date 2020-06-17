@@ -1,7 +1,7 @@
-/* MT7620-RT5592 */
+/* MT7620RT5592 */
 
-#define BOARD_PID		"MT7620-RT5592"
-#define BOARD_NAME		"MT7620-RT5592"
+#define BOARD_PID		"MT7620RT5592"
+#define BOARD_NAME		"MT7620RT5592"
 #define BOARD_DESC		"Sxx1314 Wireless Router"
 #define BOARD_VENDOR_NAME	"Sxx1314"
 #define BOARD_VENDOR_URL	"http://www.sxx1314.com/"
